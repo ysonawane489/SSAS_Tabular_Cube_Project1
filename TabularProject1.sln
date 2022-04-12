@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "TabularProject2", "..\TabularProject2\TabularProject2.smproj", "{4BDE7F45-01C4-480E-8EC1-A6869E112F2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|x86 = Development|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDE7F45-01C4-480E-8EC1-A6869E112F2A}.Development|x86.ActiveCfg = Development|x86
+		{4BDE7F45-01C4-480E-8EC1-A6869E112F2A}.Development|x86.Build.0 = Development|x86
+		{4BDE7F45-01C4-480E-8EC1-A6869E112F2A}.Development|x86.Deploy.0 = Development|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06389879-25CD-478C-A4FC-5F5979AD57EB}
+	EndGlobalSection
+EndGlobal
